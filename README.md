@@ -1,4 +1,5 @@
-**Online E-Commerce Website**
+  **Online E-Commerce Website**
+
 This project is a responsive e-commerce website focused on a specific product category, offering essential features for a streamlined user experience. Built using HTML, CSS, and JavaScript, this website demonstrates a practical approach to developing a basic online shopping platform.
 
 **Features**
